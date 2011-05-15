@@ -1,0 +1,9 @@
+*.gem
+pkg
+.bundle
+Gemfile.lock
+debug.log
+doc
+activeresource/doc
+dist
+.rvmrc
